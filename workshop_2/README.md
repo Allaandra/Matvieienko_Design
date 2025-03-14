@@ -15,7 +15,7 @@
 Хід роботи:
 1. Аналіз
     - Логотип Фігми складається з 5 частин
-    - Використані різні кольори, а саме: '#F24E1E', '#FF7262', '#A259FF', '#1ABCFE', '#0ACF83'
+    - Використані різні кольори, а саме: `#F24E1E`, `#FF7262`, `#A259FF`, `#1ABCFE`, `#0ACF83`
 2. Розробка
     - Використати інструмент Rectangle(Квадрат)
     - Утримувати Shift, розтягнути до потрібних розмірів
@@ -26,8 +26,8 @@
 3. Результати
     | Елемент | Результат |
     | --- | --- |
-    | Лого Фігми | ![Результат](images/Figma-logo.png){ width=200px } |
-    | Скріншот | ![Скріншот](images/Figma-logo-work-screen.png){ width=700px } |
+    | Лого Фігми | <img src="images/Figma-logo.png" width="200px" /> |
+    | Скріншот | <img src="images/Figma-logo-work-screen.png" width="500px" /> |
 
     Посилання на проект: [workshop_2](https://www.figma.com/design/bswuGDqb7gHoMhfnTonbav/workshop_2?node-id=0-1&t=GTwUUwT3yny19D2n-1)
 
