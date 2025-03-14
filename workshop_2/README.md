@@ -2,7 +2,7 @@
 
 ## Виконала:  
 **Матвєєнко Олександра**  
-**Група: ІПЗ-2.03**
+**Група: ІПЗ-2.03**  
 [Посилання на проект в Фігма](https://www.figma.com/design/bswuGDqb7gHoMhfnTonbav/workshop_2?node-id=0-1&t=GTwUUwT3yny19D2n-1)
 
 ## Завдання:
