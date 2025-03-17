@@ -30,19 +30,20 @@
 
     Посилання на проект: [workshop_3](https://www.figma.com/design/uglQDUN8zKtJ7TiDlrtC8v/workshop_3?node-id=0-1&t=K7S9Cjk4c7rL46m7-1)
 
-## Використані матеріали:
-Іконки взяти готові з https://fonts.google.com/icons
+## Використані матеріали:  
+Іконки взяти готові з https://fonts.google.com/icons  
 Шрифт Roboto взяти з Google Fonts
 
 ## Користні матеріали:
-**Плагіни Figma:** 
-Feather Icons,  iconsax 6000+  – імпорт значків (іконок)
-**Посилання:**
-https://fonts.google.com/icons
-https://www.flaticon.com
-https://iconarchive.com
-https://www.iconfinder.com/free_icons
-https://iconmonstr.com
-https://www.vecteezy.com/free-vector/icons
-https://www.youtube.com/watch?v=VqQeUNmXvwU
+**Плагіни Figma:**   
+Feather Icons,  iconsax 6000+  – імпорт значків (іконок)  
+
+**Посилання:**  
+https://fonts.google.com/icons  
+https://www.flaticon.com  
+https://iconarchive.com  
+https://www.iconfinder.com/free_icons  
+https://iconmonstr.com  
+https://www.vecteezy.com/free-vector/icons  
+https://www.youtube.com/watch?v=VqQeUNmXvwU  
 https://www.komarov.design/nova-funktsiia-sections-u-figma-shcho-tsie-i-iak-vikoristovuvati/?authuser=0
