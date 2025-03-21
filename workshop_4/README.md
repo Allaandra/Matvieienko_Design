@@ -23,15 +23,15 @@
 2. Розробка
     - Підготовка матеріалів:
         - Вивчення роботи Pen Tool у Figma
-        - Проходження [The Bezier Game](https://bezier.method.ac/?authuser=0) для практики
-        <img src="images/The_Bezier_Game.png" width="200px" />
+        - Проходження [The Bezier Game](https://bezier.method.ac/?authuser=0) для практики  
+            <img src="images/The_Bezier_Game.png" width="200px" />
         - Вибір п'яти іконок для відтворення
     - Створення іконок:
         - Використання Pen Tool та базових фігур
         - Робота з кривими Безьє для плавних ліній
         - Вирівнювання елементів у межах фрейму 24×24 px
         - Використання рівномірної обводки (border-style)
-3. Результати
+3. Результати  
     <img src="images/Result.png"/>
 
     Посилання на проект: [workshop_4](https://www.figma.com/design/uBpDOweuxFKVttp5NI2XTX/workshop_4?node-id=0-1&t=NXY0j8zQyHo9lf5V-1)
