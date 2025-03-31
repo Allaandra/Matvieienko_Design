@@ -1,4 +1,4 @@
-# ПЗ-4 Завдання для самостійного опрацювання(Part1)
+# ПЗ-4 Завдання для самостійного опрацювання (Part1)
 Друга частина з Advanced та Medium - [Part2](https://github.com/Allaandra/Matvieienko_Design/tree/main/workshop_6)
 ## Виконала:  
 **Матвєєнко Олександра**  
