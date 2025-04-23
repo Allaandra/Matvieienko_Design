@@ -3,7 +3,7 @@
 ## Виконала:  
 **Матвєєнко Олександра**  
 **Група: ІПЗ-2.03**  
-[Посилання на проект в Фігма](https://www.figma.com/design/tHSENAGE9w26VYFvL16hLk/workshop_10?node-id=0-1&t=jaZhitdiemvx3hX3-1)
+[Посилання на проект в Фігма](https://www.figma.com/design/tHSENAGE9w26VYFvL16hLk/workshop_10?node-id=0-1&t=jaZhitdiemvx3hX3-1)  
 [Посилання на Prototype](https://www.figma.com/proto/tHSENAGE9w26VYFvL16hLk/workshop_10?page-id=0%3A1&node-id=18-1945&p=f&viewport=-490%2C255%2C0.09&t=IeiqfaBIXqFAMlRE-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=18%3A1945)
 
 ## Завдання:
@@ -37,5 +37,5 @@
     | Сторінка товару | <img src="images/Desktop2.png" width="300px" /> |
     | Сторінка рекомендацій через кнопку | <img src="images/Desktop3.png" width="300px" /> |
 
-    Посилання на проект: [workshop_10](https://www.figma.com/design/tHSENAGE9w26VYFvL16hLk/workshop_10?node-id=0-1&t=jaZhitdiemvx3hX3-1)
+    Посилання на проект: [workshop_10](https://www.figma.com/design/tHSENAGE9w26VYFvL16hLk/workshop_10?node-id=0-1&t=jaZhitdiemvx3hX3-1)  
     Посилання на прототип: [Prototype](https://www.figma.com/proto/tHSENAGE9w26VYFvL16hLk/workshop_10?page-id=0%3A1&node-id=18-1945&p=f&viewport=-490%2C255%2C0.09&t=IeiqfaBIXqFAMlRE-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=18%3A1945)
